@@ -1,12 +1,15 @@
 {
   "gameId": "istanbul_kiyamet_vakti",
-  "mods": [
+  "mods": [       
     {
-      "id": "glasses",
-      "name": "Gözlük",
-      "version": "1.0.0",
-      "zipUrl": "https://github.com/gencbilginlerteknikservis/ikv-mods/releases/download/v1.0.0/glasses_1.0.0.zip",
-      "sha256": "acee9cee36bba8a7e48c6c080f0dee8bad9834f7cb0b7b01a81613c6c01c00d2"
-    }   
+  "id": "glasses",
+  "name": "Gözlük",
+  "version": "1.0.0",
+  "zipUrl": "https://github.com/gencbilginlerteknikservis/ikv-mods/releases/download/v1.0.0/glasses_1.0.0.zip",
+  "sha256": "acee9cee36bba8a7e48c6c080f0dee8bad9834f7cb0b7b01a81613c6c01c00d2"
+  "iconUrl": "https://raw.githubusercontent.com/gencbilginlerteknikservis/ikv-mods/main/icons/glasses.png",
+  "description": "Karaktere gözlük ekler. classes.dat ve bazı ADF dosyalarını günceller."
+}
+
   ]
 }
