@@ -1,0 +1,12 @@
+{
+  "gameId": "istanbul_kiyamet_vakti",
+  "mods": [
+    {
+      "id": "glasses",
+      "name": "Gözlük",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/gencbilginlerteknikservis/ikv-mods/releases/download/v1.0.0/glasses_1.0.0.zip",
+      "sha256": "PUT_SHA256_HERE"
+    },   
+  ]
+}
